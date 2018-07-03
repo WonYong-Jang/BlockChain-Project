@@ -1,0 +1,5 @@
+eth.mining
+eth.hashrate
+eth.blockNumber
+eth.accounts
+eth.account[0]
